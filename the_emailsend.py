@@ -1,4 +1,3 @@
-import setup
 from setup import SendMessage
 from Time import gettime
 #this is what will send messages when called based on params passed to the function
