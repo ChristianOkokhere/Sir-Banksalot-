@@ -1,1 +1,1 @@
-# Sir-Banksalot-
+# Sir-Banksalot- This is a personal app that aims to manage bank transers of weekly alowances and monthly investment goals to keep me on track for my finacial goals. Overall this app will send me a weekly allowance, send me monthly investment funds, and send me reminders to manage all of that so that I can become better at managing all of that
